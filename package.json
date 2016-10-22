@@ -24,7 +24,10 @@
   },
   "homepage": "https://github.com/geekplux/koa2-boilerplate#readme",
   "dependencies": {
-    "koa": "^2.0.0-alpha.3"
+    "co": "^4.6.0",
+    "koa": "^2.0.0-alpha.3",
+    "koa-ejs": "^3.0.0",
+    "koa-router": "^7.0.1"
   },
   "devDependencies": {
     "babel-plugin-syntax-async-functions": "^6.8.0",
