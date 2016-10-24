@@ -1,5 +1,5 @@
 {
-  "name": "koa2-boilerplate",
+  "name": "SPA-react-koa2",
   "version": "1.0.0",
   "description": "Minimal koa v2 boilerplate.",
   "main": "index.js",

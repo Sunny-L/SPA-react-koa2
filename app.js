@@ -17,7 +17,7 @@ app.context.render = co.wrap(app.context.render)
 app.use(router.routes())
 app.use(router.allowedMethods())
 
-app.listen(3001, () => console.log('server started 3001'))
+app.listen(4000, () => console.log('server started 4000'))
 
 export default app
 
