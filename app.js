@@ -12,6 +12,7 @@ render(app, {
   cache: false,
   debug: true
 })
+
 app.context.render = co.wrap(app.context.render)
 
 app.use(router.routes())
